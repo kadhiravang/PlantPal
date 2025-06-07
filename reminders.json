@@ -1,0 +1,50 @@
+[
+  {
+    "plant_name": "Test",
+    "interval_days": 7,
+    "next_watering": "2025-04-12",
+    "amount_ml": 500,
+    "image_path": "temp_test.jpg",
+    "upload_date": "2025-04-05 23:55:22",
+    "images": [
+      {
+        "image_path": "temp_test.jpg",
+        "date": "2025-04-05 23:55:22"
+      },
+      {
+        "image_path": "updated_test.jpg",
+        "date": "2025-04-05 23:57:47"
+      },
+      {
+        "image_path": "updated_test.jpg",
+        "date": "2025-04-05 23:57:50"
+      },
+      {
+        "image_path": "updated_test.jpg",
+        "date": "2025-04-06 00:00:10"
+      },
+      {
+        "image_path": "updated_test.jpg",
+        "date": "2025-04-06 00:00:12"
+      },
+      {
+        "image_path": "updated_test.jpg",
+        "date": "2025-04-06 00:54:00"
+      }
+    ]
+  },
+  {
+    "plant_name": "Test1",
+    "interval_days": 12,
+    "next_watering": "2025-04-18",
+    "amount_ml": 2286,
+    "image_path": "temp_test1.jpg",
+    "upload_date": "2025-04-06 00:53:47",
+    "images": [
+      {
+        "image_path": "temp_test1.jpg",
+        "date": "2025-04-06 00:53:47"
+      }
+    ]
+  }
+]
